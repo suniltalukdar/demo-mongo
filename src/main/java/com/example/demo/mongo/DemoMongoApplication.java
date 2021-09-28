@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DemoMongoApplication {
 
 	public static void main(String[] args) {
+		//Fetch all the beans.
 		SpringApplication.run(DemoMongoApplication.class, args);
 	}
 
