@@ -7,6 +7,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DemoMongoApplication {
 
 	public static void main(String[] args) {
+		/**
+		*Add logger.
+		*/
 		SpringApplication.run(DemoMongoApplication.class, args);
 	}
 
