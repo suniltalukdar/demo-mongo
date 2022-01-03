@@ -10,6 +10,10 @@ public class DemoMongoApplication {
 		/**
 		*Add logger.
 		*/
+		/**
+		 * 
+		 * This is to test push.
+		 */
 		SpringApplication.run(DemoMongoApplication.class, args);
 	}
 
